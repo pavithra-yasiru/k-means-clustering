@@ -74,11 +74,10 @@ These insights can help in:
 ## 🖼 Sample Output
 
 **Elbow Method to determine optimal clusters**  
-![Elbow Method](images/output_1.png)
+<img width="750" height="557" alt="image" src="https://github.com/user-attachments/assets/54ba1638-ecf2-465b-880d-4f3716f0f563" />
+
 
 **Customer Segments Visualization**  
-![Customer Clusters](images/output_2.png)
+<img width="722" height="557" alt="image" src="https://github.com/user-attachments/assets/003f9dd0-376b-4128-9731-70ce20a820f8" />
 
-## 📜 License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
